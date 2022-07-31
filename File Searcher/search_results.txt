@@ -1,0 +1,83 @@
+C:/../Program Files/BraveSoftware/Brave-Browser/Application/chrome.VisualElementsManifest.xml
+C:/../Program Files/BraveSoftware/Brave-Browser/Application/chrome_proxy.exe
+C:/../Program Files/BraveSoftware/Brave-Browser/Application/101.1.38.119/chrome.dll
+C:/../Program Files/BraveSoftware/Brave-Browser/Application/101.1.38.119/chrome.dll.sig
+C:/../Program Files/BraveSoftware/Brave-Browser/Application/101.1.38.119/chrome_100_percent.pak
+C:/../Program Files/BraveSoftware/Brave-Browser/Application/101.1.38.119/chrome_200_percent.pak
+C:/../Program Files/BraveSoftware/Brave-Browser/Application/101.1.38.119/chrome_elf.dll
+C:/../Program Files/BraveSoftware/Brave-Browser/Application/101.1.38.119/chrome_pwa_launcher.exe
+C:/../Program Files/BraveSoftware/Brave-Browser/Application/101.1.38.119/Installer/chrome.7z
+C:/../Program Files/Common Files/McAfee/CEF/chrome_elf.dll
+C:/../Program Files/GIMP 2/share/gimp/2.0/scripts/chrome-it.scm
+C:/../Program Files/Google/Chrome/Application/chrome.exe
+C:/../Program Files/Google/Chrome/Application/chrome.VisualElementsManifest.xml
+C:/../Program Files/Google/Chrome/Application/chrome_proxy.exe
+C:/../Program Files/Google/Chrome/Application/101.0.4951.67/chrome.dll
+C:/../Program Files/Google/Chrome/Application/101.0.4951.67/chrome.dll.sig
+C:/../Program Files/Google/Chrome/Application/101.0.4951.67/chrome.exe.sig
+C:/../Program Files/Google/Chrome/Application/101.0.4951.67/chrome_100_percent.pak
+C:/../Program Files/Google/Chrome/Application/101.0.4951.67/chrome_200_percent.pak
+C:/../Program Files/Google/Chrome/Application/101.0.4951.67/chrome_elf.dll
+C:/../Program Files/Google/Chrome/Application/101.0.4951.67/chrome_pwa_launcher.exe
+C:/../Program Files/Google/Chrome/Application/101.0.4951.67/Installer/chrome.7z
+C:/../Program Files/JetBrains/PyCharm Community Edition 2022.1/jbr/bin/chrome_100_percent.pak
+C:/../Program Files/JetBrains/PyCharm Community Edition 2022.1/jbr/bin/chrome_200_percent.pak
+C:/../Program Files/JetBrains/PyCharm Community Edition 2022.1/jbr/bin/chrome_elf.dll
+C:/../Program Files/McAfee/MSC/wss.mcafee.chrome.extension.json
+C:/../Program Files/McAfee/MSK/chrome.manifest
+C:/../Program Files/McAfee/WebAdvisor/webadvisor.mcafee.chrome.extension.json
+C:/../Program Files/McAfee/WebAdvisor/webadvisor_v2.mcafee.chrome.extension.json
+C:/../Program Files/McAfee/WebAdvisor/MFW/packages/webadvisor/chrome_extension_push_handler.luc
+C:/../Program Files/McAfee/WebAdvisor/telemetry/dimensions/handlers/chromebasedbrowserversion.luc
+C:/../Program Files/Microsoft Office/root/Office16/sdxs/FA000000070/assets/src/assets/images/chrome.png
+C:/../Program Files/Microsoft Office/root/Office16/sdxs/FA000000070/assets/src/assets/images/chrome@2x.png
+C:/../Program Files/Microsoft Office/root/vfs/ProgramFilesX86/Microsoft Office/Office16/AppSharingChromeHook.dll
+C:/../Program Files (x86)/Google/Update/Download/{8A69D345-D564-463C-AFF1-A69D9E530F96}/101.0.4951.67/101.0.4951.67_101.0.4951.54_chrome_updater.exe
+C:/../Program Files (x86)/HP/HP Support Framework/Resources/HPNetworkCheck/NCLauncherFromChrome.exe
+C:/../Program Files (x86)/VideoLAN/VLC/plugins/demux/libdemux_chromecast_plugin.dll
+C:/../Program Files (x86)/VideoLAN/VLC/plugins/stream_out/libstream_out_chromecast_plugin.dll
+C:/../ProgramData/Microsoft/Windows/Start Menu/Programs/Google Chrome.lnk
+C:/../ProgramData/Microsoft/Windows Defender/Platform/4.18.2203.5-0/com.microsoft.defender.be.chrome.json
+C:/../Python310/Lib/site-packages/eel/chrome.py
+C:/../Python310/Lib/site-packages/eel/__pycache__/chrome.cpython-310.pyc
+C:/../Users/hariom mewada/AppData/Local/BraveSoftware/Brave-Browser/User Data/Safe Browsing/ChromeExtMalware.store
+C:/../Users/hariom mewada/AppData/Local/Google/Chrome/User Data/chrome_shutdown_ms.txt
+C:/../Users/hariom mewada/AppData/Local/Google/Chrome/User Data/Default/Extensions/kbfnbcaeplbcioakkpcpgfkobkghlhen/14.1062.0_0/src/icon/icon48-chrome.png
+C:/../Users/hariom mewada/AppData/Local/Google/Chrome/User Data/Default/Extensions/kbfnbcaeplbcioakkpcpgfkobkghlhen/14.1062.0_0/src/images/27fa2b104aeeb6ea31b58e7ae8c13293/for-chrome@2x.png
+C:/../Users/hariom mewada/AppData/Local/Google/Chrome/User Data/Default/Extensions/kbfnbcaeplbcioakkpcpgfkobkghlhen/14.1062.0_0/src/images/74422d9524b1111a197499c7e518e8b9/for-chrome.png
+C:/../Users/hariom mewada/AppData/Local/Google/Chrome/User Data/Safe Browsing/ChromeExtMalware.store
+C:/../Users/hariom mewada/AppData/Local/Google/Chrome/User Data/Safe Browsing/ChromeUrlClientIncident.store
+C:/../Users/hariom mewada/AppData/Local/Microsoft/Edge/User Data/Safe Browsing/ChromeExtMalware.store
+C:/../Users/hariom mewada/AppData/Local/Microsoft/Office/SolutionPackages/fe008d28451f46f339133ae91dc7e2d7/PackageResources/assets/src/assets/images/chrome.png
+C:/../Users/hariom mewada/AppData/Local/Microsoft/Office/SolutionPackages/fe008d28451f46f339133ae91dc7e2d7/PackageResources/assets/src/assets/images/chrome@2x.png
+C:/../Users/hariom mewada/AppData/Local/Programs/Microsoft VS Code/chrome_100_percent.pak
+C:/../Users/hariom mewada/AppData/Local/Programs/Microsoft VS Code/chrome_200_percent.pak
+C:/../Users/hariom mewada/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/ms-vscode.js-debug/src/chromehash_bg.wasm
+C:/../Users/hariom mewada/AppData/Roaming/Code/User/globalStorage/ms-vsliveshare.vsliveshare-audio/electron-4.2.7/dist/chrome_100_percent.pak
+C:/../Users/hariom mewada/AppData/Roaming/Code/User/globalStorage/ms-vsliveshare.vsliveshare-audio/electron-4.2.7/dist/chrome_200_percent.pak
+C:/../Users/hariom mewada/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/Google Chrome.lnk
+C:/../Users/hariom mewada/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/User Pinned/TaskBar/Google Chrome.lnk
+C:/../Windows/Microsoft.NET/Framework/v4.0.30319/Config/Browsers/chrome.browser
+C:/../Windows/Microsoft.NET/Framework64/v4.0.30319/Config/Browsers/chrome.browser
+C:/../Windows/SystemApps/Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy/core/js/backstack-chrome-breadcrumb-vm.js
+C:/../Windows/SystemApps/Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy/core/js/close-chrome-breadcrumb-vm.js
+C:/../Windows/SystemApps/Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy/core/js/oobe-chrome-breadcrumb-vm.js
+C:/../Windows/SystemApps/Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy/core/js/oobe-chrome-contentview-vm.js
+C:/../Windows/SystemApps/Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy/core/js/oobe-chrome-footer-vm.js
+C:/../Windows/SystemApps/Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy/core/view/backstack-chrome-breadcrumb-template.html
+C:/../Windows/SystemApps/Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy/core/view/close-chrome-breadcrumb-template.html
+C:/../Windows/SystemApps/Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy/core/view/oobe-chrome-breadcrumb-template.html
+C:/../Windows/SystemApps/Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy/core/view/oobe-chrome-contentview-template.html
+C:/../Windows/SystemApps/Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy/core/view/oobe-chrome-footer-template.html
+C:/../Windows/WinSxS/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.22000.469_none_fdfb724cd2e5c0ff/backstack-chrome-breadcrumb-template.html
+C:/../Windows/WinSxS/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.22000.469_none_fdfb724cd2e5c0ff/backstack-chrome-breadcrumb-vm.js
+C:/../Windows/WinSxS/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.22000.469_none_fdfb724cd2e5c0ff/close-chrome-breadcrumb-template.html
+C:/../Windows/WinSxS/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.22000.469_none_fdfb724cd2e5c0ff/close-chrome-breadcrumb-vm.js
+C:/../Windows/WinSxS/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.22000.469_none_fdfb724cd2e5c0ff/oobe-chrome-breadcrumb-template.html
+C:/../Windows/WinSxS/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.22000.469_none_fdfb724cd2e5c0ff/oobe-chrome-breadcrumb-vm.js
+C:/../Windows/WinSxS/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.22000.469_none_fdfb724cd2e5c0ff/oobe-chrome-contentview-template.html
+C:/../Windows/WinSxS/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.22000.469_none_fdfb724cd2e5c0ff/oobe-chrome-contentview-vm.js
+C:/../Windows/WinSxS/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.22000.469_none_fdfb724cd2e5c0ff/oobe-chrome-footer-template.html
+C:/../Windows/WinSxS/amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.22000.469_none_fdfb724cd2e5c0ff/oobe-chrome-footer-vm.js
+C:/../Windows/WinSxS/amd64_netfx4-browser_files_b03f5f7f11d50a3a_4.0.15806.0_none_bd45b0fb0d9731c2/chrome.browser
+C:/../Windows/WinSxS/x86_netfx4-browser_files_b03f5f7f11d50a3a_4.0.15806.0_none_04f2e7d222135ac8/chrome.browser
