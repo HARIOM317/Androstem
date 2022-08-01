@@ -16,8 +16,8 @@ def send_message():
     try:
         number = mobile_number.get()
         message = text_message.get(1.0, END)
-        client = Client("AC798126aac7b20c743742a9aa0ca6fbaa", "01985394f7b3f01825dbb2a4e6f2b571")
-        client.messages.create(to=number, from_="+19783893996", body=message)
+        client = Client("Enter your twilio account SID here", "your twilio auth tokan")
+        client.messages.create(to=number, from_="your twilio account number", body=message)
         showinfo("Message", "Message sent successfully!")
     except:
         showerror("Message", "Something went wrong or please check your internet connection!")
