@@ -637,7 +637,7 @@ def side_menu():
     def get_news():
         try:
             # API key for sports news
-            news_url = "https://newsapi.org/v2/top-headlines?country=in&category=sports&apiKey=bcfbe6f7612746c58e64c1e613af0204"
+            news_url = "Enter your sports news api key here"
             news = requests.get(news_url).text
             news_dict = json.loads(news)
             arts = news_dict['articles']
@@ -652,7 +652,7 @@ def side_menu():
             listbox.insert(END, "")
 
             # API key for business news
-            business_url = "https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=bcfbe6f7612746c58e64c1e613af0204"
+            business_url = "Enter your business news api key here"
             news2 = requests.get(business_url).text
             news_dict2 = json.loads(news2)
             arts = news_dict2['articles']
@@ -667,7 +667,7 @@ def side_menu():
             listbox.insert(END, "")
 
             # API key for tech news
-            tech_url = "https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=bcfbe6f7612746c58e64c1e613af0204"
+            tech_url = "Enter your tech news api key here"
             news3 = requests.get(tech_url).text
             news_dict3 = json.loads(news3)
             arts = news_dict3['articles']
