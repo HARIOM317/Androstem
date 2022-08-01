@@ -227,14 +227,14 @@ def contact():
             tree_list = tree_dictionary['values']
             tree_telephone = str(tree_list[1])
 
-            account_sid = "AC798126aac7b20c743742a9aa0ca6fbaa"
-            auth_token = "01985394f7b3f01825dbb2a4e6f2b571"
+            account_sid = "Your twilio account sid"
+            auth_token = "Your twilio account auth token"
             client = Client(account_sid, auth_token)
 
             call = client.calls.create(
                 twiml="<Response><Say>hello</Say></Response>",
                 to="+91" + tree_telephone,
-                from_="+19783893996"
+                from_="Your twilio account number"
             )
             messagebox.showinfo("Calling", "Call sent successfully")
         except:
@@ -331,15 +331,15 @@ def phone():
     # function for calling someone
     def call_someone():
         try:
-            account_sid = "AC798126aac7b20c743742a9aa0ca6fbaa"
-            auth_token = "01985394f7b3f01825dbb2a4e6f2b571"
+            account_sid = "Your twilio account sid"
+            auth_token = "Your twilio account auth token"
             client = Client(account_sid, auth_token)
             number = number_entry.get()
 
             call = client.calls.create(
                 twiml="<Response><Say>hello</Say></Response>",
                 to=number,
-                from_="+19783893996"
+                from_="Your twilio account number"
             )
             messagebox.showinfo("Calling", "Call sent successfully")
         except:
