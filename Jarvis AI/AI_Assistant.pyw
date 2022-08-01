@@ -138,7 +138,7 @@ def activate():
                 speak(result[0].summary)
 
             elif 'temperature' in query:
-                url = "https://www.google.com/search?q=temperature+in+anandipura+mp&ei=KBZ-Yq6FFPKzmAW72bzYBQ&ved=0ahUKEwiuuePshtz3AhXyGaYKHbssD1sQ4dUDCA4&uact=5&oq=temperature+in+anandipura+mp&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsAM6CggAEEcQsAMQyQM6CAgAEJIDELADSgQIQRgASgQIRhgAUIMKWIMKYKoeaAFwAXgAgAHRAYgB0QGSAQMyLTGYAQCgAQHIAQXAAQE&sclient=gws-wiz"
+                url = "https://www.google.com/search?q=temperature"
                 r = requests.get(url)
                 data = BeautifulSoup(r.text, "html.parser")
                 ans_ = data.find("div", class_="BNeawe").text
@@ -220,7 +220,7 @@ def activate():
 
 # create function to automatically send the email
 def sendEmail():
-    webbrowser.open("https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=CllgCJNqsdqhqxMMnLLFsGmtWGDfNJLSrZhZZxzJtTMdvSHklGBQnXbsDXghVVZztjtVLkCBvSB")
+    webbrowser.open("Enter your send gmail url here")
 
 def Empty_recycle_bin():
     try:
