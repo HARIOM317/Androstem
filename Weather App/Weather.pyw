@@ -40,7 +40,7 @@ def get_weather():
         city_name.config(text=city)
 
         # weather api
-        api = f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid=0a39243a1ad5ce042d806a940901cf21"
+        api = f"Enter your API key here"
 
         # getting information
         json_data = requests.get(api).json()
