@@ -16,7 +16,7 @@ def threading_convert():
 def convert():
     try:
         # Using the API
-        url = "https://currency-converter18.p.rapidapi.com/api/v1/convert"
+        url = "Enter your API key here"
         currency_1 = combo_box1.get()
         currency_2 = combo_box2.get()
         _amount = value.get()
