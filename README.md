@@ -147,7 +147,7 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this software as long as the license terms are met.
+This project is licensed under the [MIT License](LICENSE.txt). You are free to use, modify, and distribute this software as long as the license terms are met.
 
 ---
 
